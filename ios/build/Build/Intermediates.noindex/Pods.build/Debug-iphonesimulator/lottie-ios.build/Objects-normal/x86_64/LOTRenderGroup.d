@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m \
+  /Users/pakchu/Desktop/flokr/ios/Pods/Target\ Support\ Files/lottie-ios/lottie-ios-prefix.pch \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/LOTRenderNode.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/LOTAnimatorNode.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/MacCompatability/LOTPlatformCompat.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Extensions/LOTBezierPath.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTModels.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTKeyframe.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTBezierData.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTComposition.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTLayer.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTMask.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeCircle.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeFill.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeGroup.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapePath.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeRectangle.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeStroke.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeTransform.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeTrimPath.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTLayerGroup.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTAsset.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeGradientFill.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPathAnimator.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTFillRenderer.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTStrokeRenderer.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTNumberInterpolator.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTValueInterpolator.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTSizeInterpolator.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTCircleAnimator.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTRoundedRectAnimator.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/ManipulatorNodes/LOTTrimPathNode.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeStar.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPolygonAnimator.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPolystarAnimator.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTGradientFillRender.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRepeaterRenderer.h \
+  /Users/pakchu/Desktop/flokr/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeRepeater.h
